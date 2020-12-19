@@ -1,11 +1,12 @@
-# currency-convertor
-Currency convertor is a web app that converts one currency value into another.
+# currency-convertor desktop app
+Currency convertor is a desktop made using react js and electron js
 
-## LIVE DEMO: "https://currency-convertor-react.web.app"
+## LIVE DEMO(WEB APP): "https://currency-convertor-react.web.app"
   
 ## TECHNOLOGIES USED:
   
 Frontend: React js and Materialize css
+Electron js for making desktop app
    
 Currency convertor Api:
 Link: "https://rapidapi.com/fyhao/api/currency-exchange"
