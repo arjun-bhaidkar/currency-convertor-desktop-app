@@ -6,7 +6,7 @@ Currency convertor is a desktop made using react js and electron js
 
 Step 1: Clone this repository on desktop
 
-step 2: Run command "npm install" which will install all dependencies
+step 2: Run command "npm install" which will install all the dependencies
 
 step 3: Run command "npm run make" which will make a out folder
 
